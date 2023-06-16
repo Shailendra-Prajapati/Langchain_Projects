@@ -1,1 +1,1 @@
-openai_key = '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'
+openai_key = 'use your key'
